@@ -5,6 +5,12 @@ A Java implementation of a multi-phase compiler component that takes an arithmet
 
 ---
 
+# Showcase
+
+https://youtu.be/BlN3KjZbpxY
+
+---
+
 ## Project Overview
 
 This project builds a compiler pipeline entirely from scratch using core Java and object-oriented design. No external libraries. Every phase — tokenizing, parsing, tree building, and evaluating — is implemented as a separate, modular component.
